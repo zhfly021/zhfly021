@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+- 🌱 I know a little about Java development and big data, and I am currently learning AI.
+- 😄 A graduate student who dreams of becoming a Geek and is working hard for it.
+
+- 🔭 loading…
+
+
+
 <!--
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zhfly021&show_icons=true&theme=tokyonight" /> </div>
