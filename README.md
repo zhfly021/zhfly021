@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I know a little about Java development and Big Data, and I am currently learning AI.
 - 😄 A graduate student who dreams of becoming a Geek and is working hard for it.
 
-- 🔭 I am looking for a 2024 summer internship in Big Data development, Java development, and AI research and development.
+- 🔭 I am looking for a 2024 summer internship in Big Data development, Java development, or AI research and development.
 
 - ⚡ loading…
 
