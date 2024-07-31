@@ -19,12 +19,9 @@ Here are some ideas to get you started:
 
 
 
+- 🌱 I am a master's student in computer science, expect to graduate in 2025. During my graduate studies, I have focused on domain adaptative object ReID, while my undergraduate studies centered around backend development and big data development. 
 
-
-- 🌱 I know a little about Java development and Big Data, and I am currently learning AI.
-- 😄 A graduate student who dreams of becoming a Geek and is working hard for it.
-
-- 🔭 I am looking for a 2024 summer internship in Big Data development, Java development, or AI research and development.
+- 🔭 I am particularly passionate about these areas, especially enjoying the challenges of designing backend systems and handling complex data processing tasks. I am currently seeking full-time positions starting in 2025, looking to further develop my skills and knowledge in backend development, big data development, or artificial intelligence research and development.
 
 - ⚡ loading…
 
