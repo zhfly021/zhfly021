@@ -4,7 +4,6 @@
 
 - 🔭 In addition, I am very interested in the on-the-ground application of AI models, including the design API or model deployment, and lightweight deployment and acceleration on mobile.
 
-- ⚡ loading…
 
 
 <p align="center">
