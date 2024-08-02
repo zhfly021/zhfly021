@@ -8,4 +8,4 @@
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=zhfly021&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zhfly021)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zhfly021&hide_border=true&date_format=%5BY.%5Dn.j&card_width=410&card_height=170)](https://git.io/streak-stats)
