@@ -6,6 +6,11 @@
 
 - ⚡ loading…
 
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=zhfly021&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zhfly021&hide_border=true&date_format=%5BY.%5Dn.j&card_width=410&card_height=170)](https://git.io/streak-stats)
+<p align="center">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=zhfly021&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=zhfly021&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
+</p>
